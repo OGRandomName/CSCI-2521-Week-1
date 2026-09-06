@@ -1,7 +1,7 @@
 /**
 * @file Lab1_username.cpp
 * @author Kenneth Cherry
-* @date 2026-09-26
+* @date 2026-09-05
 * @brief A simple program to greet the user by name.
 */
 
